@@ -1,5 +1,5 @@
 server:
-  port: 8726
+  port: 0
 
 spring:
   main:
