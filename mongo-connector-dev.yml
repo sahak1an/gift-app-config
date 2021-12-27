@@ -1,0 +1,8 @@
+spring:
+  cache:
+    type: caffeine
+  data:
+    mongodb:
+      database: Testdb
+      host: 127.0.0.1
+      port: 27017
